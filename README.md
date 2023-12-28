@@ -1,6 +1,6 @@
 ### Hi! My name is João Marcos Carniel, Welcome!!!
 
-- 🔭 Currently, I work as Software Engeneer using C# | .NET and Typescript Angular;
+- 🔭 Currently, I work as Software Engineer using C# | .NET and Typescript Angular;
 - 🌱 I am studying Javascript focused on BackEnd (NodeJS);
 - 📫 You can find me here: https://www.linkedin.com/in/joão-marcos-carniel-180a901b8/;
 - 
