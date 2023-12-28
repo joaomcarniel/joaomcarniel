@@ -1,9 +1,9 @@
 ### Olá! Me chamo João Marcos Carniel, Seja bem vindo!!!
 
-- 🔭 Atualmente trabalho com Back-End utilizando C# | .NET;
-- 🌱 Estou estudando Javascript voltado para BackEnd (NodeJS);
-- 📫 Você pode me encontrar aqui: https://www.linkedin.com/in/jo%C3%A3o-marcos-carniel-180a901b8/;
-- ⚡ Fato engraçado: As vezes eu utilizo Modo Light;
+- 🔭 Currently, I work with Back-End using C# | .NET;
+- 🌱 I am studying Javascript focused on BackEnd (NodeJS);
+- 📫 You can find me here: https://www.linkedin.com/in/joão-marcos-carniel-180a901b8/;
+- 
 ##
 <div>
   <a href="https://github.com/joaomcarniel"> 
