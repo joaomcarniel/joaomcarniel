@@ -1,4 +1,4 @@
-### Olá! Me chamo João Marcos Carniel, Seja bem vindo!!!
+### Hi! My name is João Marcos Carniel, Welcome!!!
 
 - 🔭 Currently, I work with Back-End using C# | .NET;
 - 🌱 I am studying Javascript focused on BackEnd (NodeJS);
