@@ -1,7 +1,7 @@
 ### Hi! My name is João Marcos Carniel, Welcome!!!
 
 - 🔭 Currently, I work as Software Developer using C# | .NET;
-- 🌱 I already worked as Product Owner;
+- 🌱 I have already worked as Product Owner;
 - 📫 You can find me here: https://www.linkedin.com/in/joão-marcos-carniel-180a901b8/;
 - 
 ##
